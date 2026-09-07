@@ -1,4 +1,4 @@
-**IDENTIAS**
+**IDENTITAS**
 
 Nama : Muhammad Abu Umar
 NIM : H1D024084
