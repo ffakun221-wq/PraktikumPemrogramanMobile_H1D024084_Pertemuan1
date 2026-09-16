@@ -16,4 +16,9 @@ Pert 1
 **SCREENSHOOT**
 Pert 2
 
+<img width="1080" height="2436" alt="image" src="https://github.com/user-attachments/assets/623f7f27-1f1e-43d9-afa6-cbbfc2a0df3b" />
+
+
+
 <img width="1080" height="2436" alt="image" src="https://github.com/user-attachments/assets/2c8b1ee5-2da6-4e0f-a1b5-eb4196a766fd" />
+
