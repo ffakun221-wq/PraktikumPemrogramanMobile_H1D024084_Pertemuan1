@@ -16,10 +16,15 @@
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Jualan"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true"
+            android:label="HomeActivity"
+            android:theme="@style/Theme.Jualan"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
